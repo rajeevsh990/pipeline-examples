@@ -19,7 +19,7 @@ All contributions are under the MIT license, like Jenkins itself.
 
 # Pull requests
 
-We want them!
+We want them! Sure.
 
 # External resources
 
